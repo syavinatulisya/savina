@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+</head>
+<body style="background-color: aqua;">
+    <h1 style="color: cadetblue;" align=center">BIODATA DIRI</h1>
+    <br>
+    <hr>
+    <br>
+    <table align="center" width="600">
+        <tr>
+            <td><img src="khalishafoto.jpg" width="220"></td>
+            <br>
+            <br>
+            <tr>
+                <td>Nama</td>
+                <td>:</td>
+                <td>Khalisha</td>
+            </tr>
+
+            <tr>
+
+                <td>Nim</td>
+                <td>:</td>
+                <td>16324035</td>
+            </tr>
+            <tr>
+
+                <td>Tempat Tanggal Lahir</td>
+                <td>:</td>
+                <td>Fakfak,03-04-2006</td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Alamat</td>
+                <td>:</td>
+                <td>Kawasan</td>
+            </tr>
+            <tr>
+
+                <td>Umur</td>
+                <td>:</td>
+                <td>19 Tahun</td>
+            </tr>
+            <tr>
+                <td>Asal Sekolah</td>
+                <td>:</td>
+                <td>Smansa fakfak</td>
+            </tr>
+            <tr>
+
+             <td>Status</td>
+             <td>:</td>
+             <td>mahasiswa</td>
+        </tr>
+        <tr>
+
+            <td>Jenis Kelamin</td>
+            <td>:</td>
+            <td>Perempuan</td>
+        </tr>
+        <tr>
+
+            <td>Hobi</td>
+            <td>:</td>
+            <td>Memasak</td>
+        </tr>
+        <tr>
+
+            <td>Email</td>
+            <td>:</td>
+            <td>mdnhlatamimi@gmail.com</td>
+        </tr>
+    
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+    <table align="center"
+
+                
